@@ -1,0 +1,7 @@
+body {
+  background: url(./images/bg-black-blue.jpg) center center;
+  -webkit-background: cover;
+  -moz-background: cover;
+  -o-background: cover;
+  background: cover;
+}
